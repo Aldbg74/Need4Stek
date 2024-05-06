@@ -1,0 +1,10 @@
+*.idea
+*.o
+*mysh
+valgrind.rpt
+*my_sh
+ai
+B-AIA-*
+CoppeliaSim_Edu_V4_1_0_Ubuntu20_04/
+n4s_package/
+.vscode/
